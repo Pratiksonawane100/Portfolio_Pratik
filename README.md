@@ -1,7 +1,7 @@
-# My LeetCode Journey
+# Pratik's Coding Journey 🚀
 
-Welcome to my coding repository! Here are my LeetCode stats:
+Hi! I’m Pratik, and here’s my LeetCode progress:
 
-![LeetCode Badge](https://leetcode-stats-api.herokuapp.com/PratikSonawane/)
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/PratikSonawane/)
 
-You can check out my profile [here](https://leetcode.com/u/PratikSonawane/).
+Check out my full profile [here](https://leetcode.com/PratikSonawane/).
